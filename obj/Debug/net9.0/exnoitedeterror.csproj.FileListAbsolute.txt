@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista6\exnoitedeterror\obj\Debug\net9.0\exnoitedeterror.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista6\exnoitedeterror\obj\Debug\net9.0\exnoitedeterror.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista6\exnoitedeterror\obj\Debug\net9.0\exnoitedeterror.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista6\exnoitedeterror\obj\Debug\net9.0\exnoitedeterror.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista6\exnoitedeterror\obj\Debug\net9.0\exnoitedeterror.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista6\exnoitedeterror\bin\Debug\net9.0\exnoitedeterror.exe
+C:\Users\thiag\Github\ListasLp1\Lista6\exnoitedeterror\bin\Debug\net9.0\exnoitedeterror.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista6\exnoitedeterror\bin\Debug\net9.0\exnoitedeterror.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista6\exnoitedeterror\bin\Debug\net9.0\exnoitedeterror.dll
+C:\Users\thiag\Github\ListasLp1\Lista6\exnoitedeterror\bin\Debug\net9.0\exnoitedeterror.pdb
+C:\Users\thiag\Github\ListasLp1\Lista6\exnoitedeterror\obj\Debug\net9.0\exnoitedeterror.dll
+C:\Users\thiag\Github\ListasLp1\Lista6\exnoitedeterror\obj\Debug\net9.0\refint\exnoitedeterror.dll
+C:\Users\thiag\Github\ListasLp1\Lista6\exnoitedeterror\obj\Debug\net9.0\exnoitedeterror.pdb
+C:\Users\thiag\Github\ListasLp1\Lista6\exnoitedeterror\obj\Debug\net9.0\exnoitedeterror.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista6\exnoitedeterror\obj\Debug\net9.0\ref\exnoitedeterror.dll
